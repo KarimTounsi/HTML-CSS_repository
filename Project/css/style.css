@@ -1,0 +1,92 @@
+
+img.image {
+    background-image: url("../Image/Image.jpg");
+    height: 300px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menuList li[class="li"] {
+    display: inline-block;
+    color: #116493;
+    list-style-type: none;
+    margin: 50px 70px 10px;
+    font-size: 35px;
+}
+
+.menuList {
+    text-align: center;
+}
+
+.rentCarForm {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="date"] {
+    margin-top: 10px;
+}
+
+input[type="number"] {
+    margin-top: 10px;
+}
+
+input[name="Login"] {
+    margin-top: 15px;
+}
+
+input[type="password"] {
+    margin-top: 10px;
+}
+
+.submit2 {
+    margin-right: 35%;
+    margin-top: 10px;
+}
+
+.contactForm {
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="text"] {
+    margin-bottom: 10px;
+}
+
+input[type="email"] {
+    margin-bottom: 10px;
+}
+
+textarea[name="name"] {
+    margin-bottom: 10px;
+}
+
+.contactForm input[type="submit"] {
+
+    padding: 3px 35px;
+}
+
+form.rentCarForm {
+    width: 500px;
+}
+
+form.contactForm {
+    width: 500px;
+}
+
+form label {
+    float: left;
+    clear: both;
+}
+
+
+
+
+
